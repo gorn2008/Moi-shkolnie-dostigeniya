@@ -13,3 +13,22 @@ https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
 Можно использовать такой подход.
 
 И бывает песчаная буря.
+
+
+
+
+A design scheme for creating an Apple OS in Java (Microsoft's Windows is similar, but in C):
+
+1. Note that all computer screens have a predefined set of resolutions (e.g., 640x480 px, 800x600 px, 1920x1080 px) and a specific refresh rate (e.g., 60 Hz, 144 Hz, 165 Hz),
+specified, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
+2. Create a program section that operates similarly to a pump for creating an artificial wave.
+3. Create a program section that can change the pump pressure from 1 to that required to inflate a bicycle tire. This requires a search function.
+The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
+of the bicycle using the battery and an electric bicycle pump.
+4. Run the program by emulating a press of the Space bar or another key. This is what we did when we pressed the pedal.
+
+There's a Mercedes-Benz G-Class AMG 6x6 63 AMG that deflates the tires to drive on sand, and then restores tire pressure with a simple press of a key.
+https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
+You can use this approach.
+
+And sometimes there's a sandstorm.
