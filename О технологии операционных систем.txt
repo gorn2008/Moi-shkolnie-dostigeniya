@@ -3,7 +3,7 @@
 1. Заметим, что все экраны компьютеров имеют заранее предусмотренный набор разрешений (напр. 640x480 px, 800x600 px, 1920x1080 px), и также определенную частоту обновления (напр. 60 Hz, 144 Hz, 165 Hz), 
 задаваемые, как можно заметить, целыми числами. Это нужно принять во внимание при рассмотрении пункта 3 предложенной схемы.
 2. Создать часть программы, которая работает аналогично насосу для создания искуственной волны.
-3. Создать часть программы, которая способна сделать давление насоса из 1 таким, чтобы накачать колесо велосипеда. Для этого нужно использовать поиск.
+3. Создать часть программы, которая способна сделать давление насоса из 1 таким, чтобы накачать колесо велосипеда.
 Спицы колеса велосипеда - константы, использующие при их создании целочисленные типы данных (byte, short, int, long). Нужно зарядить аккумулятор для велосипедного насоса, а затем накачать переднее колесо 
 велосипеда с помощью аккумулятора и электрического велосипедного насоса.
 4. Запустить программу путем эмуляции нажатия на Space (пробел), или на другую клавишу. Это мы нажали на педаль.
@@ -22,7 +22,7 @@ A design scheme for creating an Apple OS in Java (Microsoft's Windows is similar
 1. Note that all computer screens have a predefined set of resolutions (e.g., 640x480 px, 800x600 px, 1920x1080 px) and a specific refresh rate (e.g., 60 Hz, 144 Hz, 165 Hz),
 specified, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
 2. Create a program section that operates similarly to a pump for creating an artificial wave.
-3. Create a program section that can change the pump pressure from 1 to that required to inflate a bicycle tire. This requires a search function.
+3. Create a program section that can change the pump pressure from 1 to that required to inflate a bicycle tire.
 The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
 of the bicycle using the battery and an electric bicycle pump.
 4. Run the program by emulating a press of the Space bar or another key. This is what we did when we pressed the pedal.
