@@ -6,7 +6,6 @@
 3. Создать часть программы, которая способна сделать давление насоса из 1 таким, чтобы накачать колесо велосипеда.
 Спицы колеса велосипеда - константы, использующие при их создании целочисленные типы данных (byte, short, int, long). Нужно зарядить аккумулятор для велосипедного насоса, а затем накачать переднее колесо 
 велосипеда с помощью аккумулятора и электрического велосипедного насоса.
-4. Запустить программу путем эмуляции нажатия на Space (пробел), или на другую клавишу. Это мы нажали на педаль.
 
 Есть Mercedes-Benz G-Класс AMG 6x6 63 AMG, который приспускает колеса с тем чтобы проехать по песку, а затем восстанавливает давление в шинах простым нажатием на клавишу.
 https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
@@ -25,7 +24,6 @@ specified, as you can see, by integers. This should be taken into account when c
 3. Create a program section that can change the pump pressure from 1 to that required to inflate a bicycle tire.
 The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
 of the bicycle using the battery and an electric bicycle pump.
-4. Run the program by emulating a press of the Space bar or another key. This is what we did when we pressed the pedal.
 
 There's a Mercedes-Benz G-Class AMG 6x6 63 AMG that deflates the tires to drive on sand, and then restores tire pressure with a simple press of a key.
 https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
