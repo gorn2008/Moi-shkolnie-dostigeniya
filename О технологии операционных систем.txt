@@ -1,7 +1,7 @@
 Схема (дизайн) создания ОС от Apple на Java (Windows от Microsoft аналогично только на C):
 
 1. Заметим, что все экраны компьютеров имеют заранее предусмотренный набор разрешений (напр. 640x480 px, 800x600 px, 1920x1080 px), 
-задаваемые, как можно заметить, целыми числами. Это нужно принять во внимание при рассмотрении пункта 3 предложенной схемы.
+задаваемый, как можно заметить, целыми числами. Это нужно принять во внимание при рассмотрении пункта 3 предложенной схемы.
 2. Создать часть программы, которая работает аналогично насосу для создания искуственной волны.
 3. Создать часть программы, которая способна сделать давление насоса из 2 таким, чтобы накачать колесо велосипеда.
 Спицы колеса велосипеда - константы, использующие при их создании целочисленные типы данных (byte, short, int, long). Нужно зарядить аккумулятор для велосипедного насоса, а затем накачать переднее колесо 
@@ -19,7 +19,7 @@ https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
 A design scheme for creating an Apple OS in Java (Microsoft's Windows is similar, but in C):
 
 1. Note that all computer screens have a predefined set of resolutions (e.g., 640x480 px, 800x600 px, 1920x1080 px),
-specified, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
+defined, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
 2. Create a program section that operates similarly to a pump for creating an artificial wave.
 3. Create a program section that can change the pump pressure from 2 to that required to inflate a bicycle tire.
 The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
