@@ -7,13 +7,6 @@
 Спицы колеса велосипеда - константы, использующие при их создании целочисленные типы данных (byte, short, int, long). Нужно зарядить аккумулятор для велосипедного насоса, а затем накачать переднее колесо 
 велосипеда с помощью аккумулятора и электрического велосипедного насоса.
 
-Есть Mercedes-Benz G-Класс AMG 6x6 63 AMG, который приспускает колеса с тем чтобы проехать по песку, а затем восстанавливает давление в шинах простым нажатием на клавишу.
-https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
-Можно использовать и такой подход.
-
-И бывает песчаная буря.
-
-
 
 
 A design scheme for creating an Apple OS in Java (Microsoft's Windows is similar, but in C):
@@ -24,9 +17,3 @@ defined, as you can see, by integers. This should be taken into account when con
 3. Create a program section that can change the pump pressure from 2 to that required to inflate a bicycle tire.
 The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
 of the bicycle using the battery and an electric bicycle pump.
-
-There's a Mercedes-Benz G-Class AMG 6x6 63 AMG that deflates the tires to drive on sand, and then restores tire pressure with a simple press of a key.
-https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
-This approach can also be used.
-
-And sometimes there's a sandstorm.
