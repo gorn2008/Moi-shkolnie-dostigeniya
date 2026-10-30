@@ -7,9 +7,8 @@ public class PensionProgram {
 
 	public static void main(String[] args) {
 		String usersPensionInput = (new Scanner(System.in)).nextLine();
-		Double initialPension = Double.parseDouble(usersPensionInput);
 		
-		double currentPension = initialPension;
+		double currentPension = Double.parseDouble(usersPensionInput);
 		int yearToPrint = Calendar.getInstance().getWeekYear() + 1;
 		
 		for (int i = 0; i < 3; i++) {
